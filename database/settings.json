@@ -1,1 +1,7 @@
-
+{
+  "maintenance": false,
+  "autoRead": false,
+  "autoTyping": false,
+  "publicMode": false,
+  "ownerOnly": false
+}
